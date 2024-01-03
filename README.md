@@ -1,4 +1,4 @@
-/**
+
  * Version 1.0
  * Created by Prakash Chatlani
  *
@@ -13,4 +13,4 @@
  *      - add split feature (if a user starts with two of the same cards, then allow to split and play those individually)
  *      - 2-player mode by adding Player classes
  *
- */
+
